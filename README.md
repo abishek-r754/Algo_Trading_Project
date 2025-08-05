@@ -81,6 +81,10 @@ Each stock has its own sheet with a clean tabular format.
 Aspiring Data Analyst | Python Developer  
 [GitHub](https://github.com/abishek-r754) | [LinkedIn](https://www.linkedin.com/in/abishek-r-84b42636b)
 
----
+GitHub Project Link:
+https://github.com/abishek-r754/Algo_Trading_Project
 
-> ⚠️ Note: This project is for educational purposes only. It is not intended for live trading or investment advice.
+Project Video:
+1. https://drive.google.com/file/d/146ZwupZEKzNfcxwkSS5IyxU9RSoTL0hw/view?usp=sharing
+2. https://drive.google.com/file/d/19kbqGlj_5KIKlTDjG2hGYExKS9q2q1EX/view?usp=sharing
+
